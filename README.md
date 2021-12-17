@@ -1,5 +1,5 @@
 
-Esse é o repositório da aula de Flexbox, no qual foi criado a interface de login do Instagram! 
+Esse é o repositório da aula de Flexbox da DIO, no qual foi criado a interface de login do Instagram! 
 
 ### Os requisitos são:
 
